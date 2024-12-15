@@ -19,6 +19,17 @@ A beautiful and intuitive Flutter-based habit tracking application that helps yo
 - 🎯 Progress visualization
 - 📊 Detailed habit statistics
 
+
+## Screenshots:
+
+![Screenshot 2024-12-15 160100](https://github.com/user-attachments/assets/0e313f3c-8bba-45e3-bd1a-d7b2df5c609f)
+
+![Screenshot 2024-12-15 160114](https://github.com/user-attachments/assets/10a6370a-2624-44e3-8a26-1d01feb9ce68)
+![Screenshot 2024-12-15 160131](https://github.com/user-attachments/assets/580250c3-026e-4080-a0ac-8b85ce2b81ce)
+![Screenshot 2024-12-15 160156](https://github.com/user-attachments/assets/1809ed24-ec3b-420f-ac40-9fe9de3a7b7f)![Screenshot 2024-12-15 160229](https://github.com/user-attachments/assets/5a5d7a93-5d89-48a6-bbe5-c5194b3f2073)
+![Screenshot 2024-12-15 160214](https://github.com/user-attachments/assets/8fe5bf42-a97d-4b25-bed0-5537715bd4d1)
+
+
 ## 🛠️ Technical Details
 
 ### Built With
