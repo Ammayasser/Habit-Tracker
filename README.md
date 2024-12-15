@@ -32,9 +32,6 @@ A beautiful and intuitive Flutter-based habit tracking application that helps yo
 - Dart SDK
 - Android Studio / VS Code
 
-## 📱 Screenshots
-[Add screenshots of your app here]
-
 ## 🚀 Getting Started
 
 1. Clone the repository
